@@ -29,7 +29,7 @@ public class BaseClass {
 
 	public void tearDown()
 	{
-		// driver.close();
+		 driver.close();
 		// driver.quit();
 	}
 }

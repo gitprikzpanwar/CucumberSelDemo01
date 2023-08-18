@@ -1,0 +1,31 @@
+package StepDefination;
+
+public class GoogleSearchStepDef {
+	
+	
+	@Given("Browser is launched")
+	public void browser_is_launched() {
+
+	}
+
+	@And("User is on google search page")
+	public void user_is_on_google_search_page() {
+
+	}
+
+	@When("User enters a text in search box")
+	public void user_enters_a_text_in_search_box() {
+
+	}
+
+	@When("hits enter")
+	public void hits_enter() {
+
+	}
+
+	@Then("user is navigated to search result")
+	public void user_is_navigated_to_search_result() {
+
+	}
+
+}
